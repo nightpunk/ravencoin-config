@@ -3,6 +3,13 @@
 
 If you plan to deploy an infrastructure, you can use this ``raven.conf`` file in order to put rigid configuration for your docker container, your standalone server install, or anything else.
 
+
+Location of the file : 
+
+* Osx : `~/Library/Application Support/Raven`
+* Linux : `~/.raven/raven.conf`
+* Windows : `C:\Users\<username>\AppData\Roaming\Raven`
+ 
 You can donate to Nightpunk with Ravencoin, Bitcoin or Ethereum : 
 
 * BTC : 13Wdnq5TiNfyjfPKyrQUZgXBJdZPBFLtTf
