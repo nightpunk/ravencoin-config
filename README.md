@@ -5,9 +5,9 @@ If you plan to deploy an infrastructure, you can use this ``raven.conf`` file in
 
 You can donate to Nightpunk with Ravencoin, Bitcoin or Ethereum : 
 
-BTC : 13Wdnq5TiNfyjfPKyrQUZgXBJdZPBFLtTf
-ETH : 0x3E7434A8c7eeAc9B2D197447b3f962296E259224
-RVN : RKvdM7TLMSRQpC3rXMegRrzwUEbv61zbg3
+* BTC : 13Wdnq5TiNfyjfPKyrQUZgXBJdZPBFLtTf
+* ETH : 0x3E7434A8c7eeAc9B2D197447b3f962296E259224
+* RVN : RKvdM7TLMSRQpC3rXMegRrzwUEbv61zbg3
 
 
 ### raven.conf
